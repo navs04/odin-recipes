@@ -1,0 +1,8 @@
+* {
+    font-family: "Helvetica","Times New Roman", sans-serif;
+    color: #000000;
+}
+
+a {
+    color: hsl(280,100%,25%);
+}
